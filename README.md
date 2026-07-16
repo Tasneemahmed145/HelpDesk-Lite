@@ -49,13 +49,11 @@ The API runs at `http://localhost:5000`.
 
 All accounts use password: **Password123!**
 
-| Role | Email |
-|------|-------|
-| Employee | alice@company.com |
-| Employee | bob@company.com |
-| Support Staff | carol@company.com |
-| Support Staff | david@company.com |
-| Manager | eve@company.com |
+| Name  | Email                                         | Password     |
+| ----- | --------------------------------------------- | ------------ |
+| Alice | [alice@company.com](mailto:alice@company.com) | Password123! |
+| Carol | [carol@company.com](mailto:carol@company.com) | Password123! |
+| Eve   | [eve@company.com](mailto:eve@company.com)     | Password123! |
 
 ## Project Structure
 
